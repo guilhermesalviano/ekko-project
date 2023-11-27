@@ -1,7 +1,7 @@
 # Documentação do Jogo "Ekko"
 
 ## Gameplay
-![Ekko](./Doc/ekko.gif)
+![Ekko](ekko-gameplay.gif)
 
 ## Introdução
 
