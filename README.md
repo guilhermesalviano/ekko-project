@@ -24,7 +24,3 @@ O antagonista é um alien simbionte que se fundiu ao cientista chefe da operaç�
 - **Suspense e Terror:** Inspirado no clima tenso e assustador dos jogos "Dead Space".
 - **Protagonista Incomum:** Reginaldo, o Zelador, assume o papel principal, oferecendo uma perspectiva diferenciada na jornada de terror.
 - **Enredo Intrigante:** Desvendar os mistérios por trás do extermínio dos passageiros e enfrentar o terrível vilão simbionte.
-
-### Equipe de Desenvolvimento
-- Guilherme Farias: Responsável pelo enredo, programação e artes.
-- Luis Augusto Silva Souza: Responsável pela música e efeitos sonoros.
