@@ -14,7 +14,7 @@ A premissa da história gira em torno de um suspense de terror, revelando o mist
 
 O antagonista é um alien simbionte que se fundiu ao cientista chefe da operação espacial. Essa fusão deu origem a uma entidade poderosa e aterrorizante, responsável pelo caos e pela ameaça à vida na nave.
 
-### O jogo foi inteiro desenvolvido por mim com as ferramentas de Desenvolvimento:
+### O jogo foi inteiro desenvolvido por mim com as seguintes ferramentas:
 - **Aseprite:** Utilizado para criar os gráficos em pixel art.
 - **Construct 2:** Usado na construção e implementação dos elementos de programação.
 - **Soundtrap:** Usado no desenvolvimento de músicas únicas.
